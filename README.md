@@ -3,7 +3,8 @@
 It's my first year in computer science student at ***epitech***.<br/>
 I am ***energetic*** and ***detail oriented*** with ***high motivation***.<br/>
 During my first year at Epitech, I acquired ***strong programming skills*** (C and Python).<br/>
-I learn quickly and I am comfortable working in a ***team and independently***. <br/>
+I learn quickly and I am comfortable working in a ***team and independently***.<br/><br/>
+**If you are looking for a developer, you can check this page and my [Linkedin](https://www.linkedin.com/in/pierre-giordano/).**<br/><br/>
 
 ---
 
