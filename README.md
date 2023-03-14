@@ -1,4 +1,4 @@
-***Hi there 👋***<br/>
+### ***Hi there 👋***<br/>
 # About Me
 It's my first year in computer science student at ***epitech***.<br/>
 I am ***energetic*** and ***detail oriented*** with ***high motivation***.<br/>
@@ -31,6 +31,7 @@ Recode the entire printf function including all options.<br/><br/>
 [![Tops Language](https://github-readme-stats.vercel.app/api/top-langs/?username=giordano-pierre&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 
 ---
+
 <br/>
 <img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech Technology Logo" title="Epitech Technology Logo" width=300 height=100>
 <br/>
