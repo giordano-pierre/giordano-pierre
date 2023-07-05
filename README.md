@@ -10,9 +10,8 @@ I learn quickly and I am comfortable working in a ***team and independently***.<
 
 # Some Interesting Project
 
-* [Corewar](https://github.com/giordano-pierre/Corewar)<br/>&emsp;This project does:<br/>&emsp;
-
-    Corewar is a computer project that involves developing a simulator for battles between programs written in a virtual assembly language.
+* [Corewar](https://github.com/giordano-pierre/Corewar)<br/>&emsp;This project does:<br/>&emsp;&emsp;&emsp;
+        Corewar is a computer project that involves developing a simulator for battles between programs written in a virtual assembly language..<br/>&emsp;&emsp;&emsp;
 
 * [Antman](https://github.com/giordano-pierre/Antman)<br/>&emsp;This project does:<br/>&emsp;&emsp;&emsp;
     The goal of this project is to compress the data.<br/>&emsp;&emsp;&emsp;
