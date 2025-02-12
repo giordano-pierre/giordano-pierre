@@ -19,7 +19,7 @@ I learn quickly and I am comfortable working in a ***team and independently***.<
   &emsp;This project does:<br/>
   &emsp;&emsp;&emsp;Nexpo is a full-stack web application designed to manage events dynamically.<br/>
   &emsp;&emsp;&emsp;It allows users to create, edit, and manage various types of events with an intuitive UI.<br/>
-  &emsp;&emsp;&emsp;Built using ***React, Node.js, and MongoDB***.
+  &emsp;&emsp;&emsp;Built using ***React, Next.js, NestJS, Expo, Node.js, and MongoDB***.
 
 ---
 
