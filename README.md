@@ -21,6 +21,13 @@ I learn quickly and I am comfortable working in a ***team and independently***.<
   &emsp;&emsp;&emsp;It allows users to create, edit, and manage various types of events with an intuitive UI.<br/>
   &emsp;&emsp;&emsp;Built using ***React, Next.js, NestJS, Expo, Node.js, and MongoDB***.
 
+* [Share](https://github.com/giordano-pierre/JAM-2-Share)<br/>
+  &emsp;This project does:<br/>
+  &emsp;&emsp;&emsp;**Share** is a full-stack content-sharing platform built with ***React(Nuxt), Supabase, and a custom backend***.<br/>
+  &emsp;&emsp;&emsp;It allows users to sign up, log in, and upload images to their personal library.<br/>
+  &emsp;&emsp;&emsp;Users can manage their collection and share uploaded images with others.<br/>
+  &emsp;&emsp;&emsp;The platform includes authentication, file handling, and image sharing features through a clean and responsive UI.
+
 ---
 
 ## Systems & Algorithms
